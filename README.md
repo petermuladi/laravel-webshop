@@ -1,4 +1,4 @@
-# 🛒Laravel-webshop
+# 🛒Laravel Webshop
 
 # Technologies
 
