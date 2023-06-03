@@ -1,6 +1,6 @@
 # 🛒Laravel Webshop
 
-# Technologies
+# Technologies 
 
 **Project is created with**
 
