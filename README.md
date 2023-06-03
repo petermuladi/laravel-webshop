@@ -100,18 +100,18 @@ php artisan storage:link
 php artisan migrate:fresh --seed
 ```
 
-***9. install node modules***
+***10. install node modules***
 ```bash
 npm install
 ```
 
-***10. run npm in developemant mode***
+***11. run npm in developemant mode***
 ```bash
 npm run dev
 ```
 
 
-***11. Login webshop and dashboard:
+***12. Login webshop and dashboard:
 👉create a Mailtrap account [Mailtrap](https://mailtrap.io)
 and configure.env the Mail account with Mailtrap
 SMTP Settings Laravel 7+***
@@ -125,13 +125,13 @@ MAIL_PASSWORD={{mailtrap password}}
 MAIL_ENCRYPTION=tls
 
 ```
-**12. Open a new terminal and Start the web server**
+**13. Open a new terminal and Start the web server**
 
 ```bash
 php artisan serve
 ```
 
-**13. Navigate to the project URL**
+**14. Navigate to the project URL**
 
 ```bash
 localhost:8000
