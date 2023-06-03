@@ -138,8 +138,7 @@ localhost:8000
 ```
 ----------------
 
-**🚩When registrate or login in webshop 
-coming a Verify email in your Mailtrap account.
+**🚩When registrate or login in webshop, coming a Verify email in your Mailtrap account.
 Log in to your Mailtrap account and approve the webshop registration,
 then you can access the webshop admin and user interface, products..**
 
