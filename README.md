@@ -33,7 +33,7 @@
 - **Verify-email**
 - **Forgot-password**
 - **Form-Validation**
-- **Darkmode-lightmode**
+- **Dark-mode-light-mode**
 - **Unit-test-to-calculate-subtotal**
 
 
@@ -105,7 +105,7 @@ php artisan migrate:fresh --seed
 npm install
 ```
 
-***11. run npm in developemant mode***
+***11. run npm in developement mode***
 ```bash
 npm run dev
 ```
